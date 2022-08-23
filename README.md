@@ -52,6 +52,8 @@ width="200"/>
 
 <img src="https://user-images.githubusercontent.com/75114432/186203917-a1ee26f0-c5e4-4192-a1b8-5e16b433dbbf.jpeg" width="200" />
 
+<h2>Score history Page</h2>
+<img src="https://user-images.githubusercontent.com/75114432/186205769-cfac3351-73e9-4573-8010-b6cf4b0264e8.jpeg" width="200"/>
 
 
 
